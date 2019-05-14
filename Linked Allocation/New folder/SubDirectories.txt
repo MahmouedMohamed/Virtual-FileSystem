@@ -1,0 +1,5 @@
+root/
+root/newfolder/
+root/newfolder1/
+root/x/
+root/y/
